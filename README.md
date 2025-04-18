@@ -32,3 +32,6 @@ Create a website for generating traditional Chinese fortune readings and love co
 | Revisions     | Ensure core features work well    | W7         | Planned  |  
 | Other Features| Work on nice-to-have features     | W8 - W9    | Planned  |  
 | UI            | Polish UI and improve visuals     | W10        | Planned  |  
+
+##Contact Info
+Developer: Victoria Yang (vicjny@uw.edu)  Client: Jason Yang (itismejy@uw.edu)
