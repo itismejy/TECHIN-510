@@ -27,10 +27,10 @@ Create a website for generating traditional Chinese fortune readings and love co
 
 | ⋅Phase⋅       | ⋅Milestone⋅                       | ⋅Due Date⋅ | ⋅Status⋅ |  
 |---------------|-----------------------------------|------------|----------|  
-| Setup         | Define and align project specifics| W1         | Planned  |  
-| Core Features | Personality and love compatability| W2 - W6    | Planned  |  
-| Revisions     | Ensure core features work well    | W7         | Planned  |  
-| Other Features| Work on nice-to-have features     | W8 - W9    | Planned  |  
+| Setup         | Define and align project specifics| W1         | Complete |  
+| Core Features | Personality and love compatability| W2 - W6    | Complete |  
+| Revisions     | Ensure core features work well    | W7         | Complete |  
+| Other Features| Work on nice-to-have features     | W8 - W9    | Coming   |  
 | UI            | Polish UI and improve visuals     | W10        | Planned  |  
 
 ## Contact Info
